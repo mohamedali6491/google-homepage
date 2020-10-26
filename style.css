@@ -1,0 +1,28 @@
+ul{
+    top: 0;
+    width: 50%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    display: inline;
+}
+
+#right-bar{
+    float: right;
+    right:0px;
+    
+}
+#left-bar{
+    float: left;
+}
+
+a{
+    display: inline;
+    list-style: none;
+    right: 0;
+    text-decoration:none;
+}
